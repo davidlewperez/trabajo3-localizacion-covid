@@ -10,6 +10,7 @@ import com.practica.genericas.FechaHora;
 import com.practica.genericas.PosicionPersona;
 
 import static com.practica.ems.covid.ContactosCovid.getFechaHora;
+import static com.practica.ems.covid.ContactosCovid.parserFecha;
 
 public class Localizacion {
 	LinkedList<PosicionPersona> lista;
@@ -102,15 +103,9 @@ public class Localizacion {
 	
 	@SuppressWarnings("unused")
 	private FechaHora parsearFecha (String fecha) {
-		int dia, mes, anio;
-		String[] valores = fecha.split("\\/");
-		dia = Integer.parseInt(valores[0]);
-		mes = Integer.parseInt(valores[1]);
-		anio = Integer.parseInt(valores[2]);
-		FechaHora fechaHora = new FechaHora(dia, mes, anio, 0, 0);
-		return fechaHora;
+		return parserFecha(fecha);
 	}
-	
+
 	private  FechaHora parsearFecha (String fecha, String hora) {
 		return getFechaHora(fecha, hora);
 	}

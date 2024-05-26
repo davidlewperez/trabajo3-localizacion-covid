@@ -1,0 +1,122 @@
+[33mcommit 97f0c0e8d9698112cebc06e3532edfc245da5d29[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: c8b25eb df40982
+Author: David Lew <d.lperez@alumnos.upm.es>
+Date:   Tue Apr 16 10:40:42 2024 +0200
+
+    Merge issue #X4 into main
+
+[33mcommit df40982e3e43fee4517d2cfe61daba24f70c9ada[m[33m ([m[1;31morigin/issue#X4[m[33m, [m[1;32missue#X4[m[33m)[m
+Author: David Lew <d.lperez@alumnos.upm.es>
+Date:   Tue Apr 16 10:18:14 2024 +0200
+
+    resolved issue#X4
+
+[33mcommit c8b25eb967f7c52638f2d5bd1b1ce708446ed98e[m[33m ([m[1;31morigin/issue#X6[m[33m)[m
+Author: d.lperez <158147667+davidlewperez@users.noreply.github.com>
+Date:   Thu Apr 11 09:55:27 2024 +0200
+
+    Update pom.xml
+
+[33mcommit 5b0649c26fdf3c3d70b874f6bffd736e15221fc7[m
+Author: d.lperez <158147667+davidlewperez@users.noreply.github.com>
+Date:   Thu Apr 11 09:54:58 2024 +0200
+
+    volvemos otra vez
+
+[33mcommit 5822fd0ce0a492946601b3f4ba3056ba99f4d3f6[m
+Author: d.lperez <158147667+davidlewperez@users.noreply.github.com>
+Date:   Thu Apr 11 09:47:06 2024 +0200
+
+    Update README.md with Github Actions badge
+
+[33mcommit d1de4f542c920245700e31ea8e99a790c1abc55e[m
+Author: d.lperez <158147667+davidlewperez@users.noreply.github.com>
+Date:   Thu Apr 11 09:42:51 2024 +0200
+
+    Update pom.xml
+
+[33mcommit 548ee4bfc6c0f68b35b9ce4cc3256eff46e9b875[m
+Author: d.lperez <158147667+davidlewperez@users.noreply.github.com>
+Date:   Thu Apr 11 09:42:25 2024 +0200
+
+    volvemos
+
+[33mcommit db9f73f475779b33d4068af93ea5286a76ec539a[m
+Author: d.lperez <158147667+davidlewperez@users.noreply.github.com>
+Date:   Tue Apr 9 09:44:00 2024 +0200
+
+    Update pom.xml
+
+[33mcommit 9ae3a8447320be92ef8d40d4c399577ebbd3dd70[m
+Merge: c309410 7eeef37
+Author: Angel panizo lledot <angel.panizo@upm.es>
+Date:   Thu Apr 4 15:29:39 2024 +0200
+
+    Merge pull request #27 from panizolledotangel/main
+    
+    update java version to 21
+
+[33mcommit 7eeef379e8dfec3a3103fdc4a8cdeae79df56bb5[m
+Author: Angel panizo lledot <angel.panizo@upm.es>
+Date:   Thu Apr 4 10:52:57 2024 +0200
+
+    update java version to 21
+
+[33mcommit c30941068020512aeac214b8f369c278e728f1dc[m
+Author: jdiazfernandez <yesica.diaz@upm.es>
+Date:   Sat May 6 09:59:28 2023 +0200
+
+    Delete BetterCodeHub.md
+
+[33mcommit d87249c8ff94a102ff662cd7c83787b85306c204[m
+Author: jdiazfernandez <yesica.diaz@upm.es>
+Date:   Tue Mar 14 12:47:53 2023 +0100
+
+    Update pom.xml
+
+[33mcommit dbd81ee479a8a1abb66f7678811486a1a8aa18e4[m
+Author: jdiazfernandez <yesica.diaz@upm.es>
+Date:   Sat Mar 11 02:25:02 2023 +0100
+
+    Create main.yml
+
+[33mcommit 942e6192c984227d34f24a5fac59820eff97c7e0[m
+Author: Angel panizo lledot <angel.panizo@upm.es>
+Date:   Mon Dec 12 12:32:24 2022 +0100
+
+    Update pom.xml
+    
+    added data for connecting to sonarcloud
+
+[33mcommit c8c921038e64a2c03cf63a53fedb4ee73d7f7c2c[m
+Merge: 7596700 0b5fdef
+Author: panizolledotangel <angel.panizo@upm.es>
+Date:   Fri Dec 2 18:22:01 2022 +0100
+
+    Merge branch 'main' of https://github.com/ETSISI-EMS/trabajo3-localizacion-covid
+
+[33mcommit 7596700eb65564ae35d39a7410fc9664110ac8af[m
+Author: panizolledotangel <angel.panizo@upm.es>
+Date:   Fri Dec 2 18:21:45 2022 +0100
+
+    fix code smell in pom.xml
+
+[33mcommit 0b5fdef02fd9c0e10a13b0896ae56c2b7303bfe2[m
+Author: Angel panizo lledot <angel.panizo@upm.es>
+Date:   Fri Dec 2 17:19:21 2022 +0100
+
+    Update README.md
+    
+    typo hotfix
+
+[33mcommit 1f3071763dc619fd034766f5be520f2ac4c21a11[m
+Author: panizolledotangel <angel.panizo@upm.es>
+Date:   Fri Dec 2 17:18:15 2022 +0100
+
+    update the assingment to the new version: readme change and  remved CI pipeline because in this new version of the assignment the students create a pipeline themselves.
+
+[33mcommit 31663badec220716c1bed0d0653828607cec442e[m
+Author: jdiazfernandez <yesica.diaz@upm.es>
+Date:   Sat Apr 2 03:14:49 2022 +0200
+
+    Init project
